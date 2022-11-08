@@ -1,0 +1,30 @@
+/* Styles.css */
+#Title {
+    font-weight: 800;
+    font-size:80px;
+    background-color: green ;
+    color: plum;
+    text-align: center;
+    
+}
+img {
+    height:auto ;
+    width:auto;
+}
+.subheading {
+    background-color:bisque;
+    color:violet;
+    text-align: center;
+    font-weight: 800;
+    font-size: 60px;
+}
+.description {
+    color:aqua;
+    font-size: 30px;
+}
+ul,
+ol
+ {
+    background-color: brown;
+    color: aliceblue;
+}
